@@ -1,0 +1,52 @@
+screen.ABOUT=HiccaShaders by Rysie1024
+screen.ABOUT.comment=HiccaShaders Copyright (C) 2022 Rysie1024
+
+screen.WORLD=World settings
+
+screen.WORLD_CURVATURE=World Curvature
+
+option.ENABLE_CURVATURE_X=Enable X-axis
+value.ENABLE_CURVATURE_X.0=No
+value.ENABLE_CURVATURE_X.1=Yes
+option.ENABLE_CURVATURE_Y=Enable Y-axis
+value.ENABLE_CURVATURE_Y.0=No
+value.ENABLE_CURVATURE_Y.1=Yes
+option.ENABLE_CURVATURE_Z=Enable Z-axis
+value.ENABLE_CURVATURE_Z.0=No
+value.ENABLE_CURVATURE_Z.1=Yes
+
+option.CURVATURE_AMOUNT_X=Amount X-axis
+option.CURVATURE_AMOUNT_Y=Amount Y-axis
+option.CURVATURE_AMOUNT_Z=Amount Z-axis
+
+option.CURVATURE_SIGN_X=Sign X-axis
+value.CURVATURE_SIGN_X.0=+
+value.CURVATURE_SIGN_X.1=-
+option.CURVATURE_SIGN_Y=Sign Y-axis
+value.CURVATURE_SIGN_Y.0=+
+value.CURVATURE_SIGN_Y.1=-
+option.CURVATURE_SIGN_Z=Sign Z-axis
+value.CURVATURE_SIGN_Z.0=+
+value.CURVATURE_SIGN_Z.1=-
+
+screen.RENDER=Render settings
+
+option.DISABLE_PROJ_MAT=Disable the projection matrix
+value.DISABLE_PROJ_MAT.0=No
+value.DISABLE_PROJ_MAT.1=Yes
+option.DISABLE_VIEW_MAT=Disable the view matrix
+value.DISABLE_VIEW_MAT.0=No
+value.DISABLE_VIEW_MAT.1=Yes
+
+screen.POST=Post-processing
+
+screen.POST_SCANLINES=Scanlines
+
+option.POST_SCANLINES_ENABLE=Enable Scanlines
+value.POST_SCANLINES_ENABLE.0=No
+value.POST_SCANLINES_ENABLE.1=Yes
+option.POST_SCANLINES_DENSITY=Scanline Density
+option.POST_SCANLINES_LINE_OPACITY=Scanline Opacity
+option.POST_SCANLINES_NOISE_OPACITY=Noise Opacity
+option.POST_SCANLINES_FLICKERING=Flickering Rate
+option.POST_SCANLINES_FLICKERING.comment=§cWarning: Flashing images
